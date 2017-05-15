@@ -1,0 +1,14 @@
+c:\users\usuario\documents\visual studio 2015\Projects\Calculadora_Daniel\Calculadora_Daniel\bin\Debug\Calculadora_Daniel.exe.config
+C:\Users\usuario\Desktop\Calculadora_Daniel\Calculadora_Daniel\obj\Debug\Calculadora_Daniel.csprojResolveAssemblyReference.cache
+C:\Users\usuario\Desktop\Calculadora_Daniel\Calculadora_Daniel\obj\Debug\Calculadora_Daniel.Calculadora.resources
+C:\Users\usuario\Desktop\Calculadora_Daniel\Calculadora_Daniel\obj\Debug\Calculadora_Daniel.Properties.Resources.resources
+C:\Users\usuario\Desktop\Calculadora_Daniel\Calculadora_Daniel\obj\Debug\Calculadora_Daniel.csproj.GenerateResource.Cache
+C:\Users\usuario\Desktop\Calculadora_Daniel\Calculadora_Daniel\bin\Debug\Calculadora_Daniel.exe.config
+C:\Users\usuario\Desktop\Calculadora_Daniel\Calculadora_Daniel\bin\Debug\Calculadora_Daniel.exe
+C:\Users\usuario\Desktop\Calculadora_Daniel\Calculadora_Daniel\bin\Debug\Calculadora_Daniel.pdb
+C:\Users\usuario\Desktop\Calculadora_Daniel\Calculadora_Daniel\bin\Debug\Entidades.dll
+C:\Users\usuario\Desktop\Calculadora_Daniel\Calculadora_Daniel\bin\Debug\Operador.dll
+C:\Users\usuario\Desktop\Calculadora_Daniel\Calculadora_Daniel\bin\Debug\Entidades.pdb
+C:\Users\usuario\Desktop\Calculadora_Daniel\Calculadora_Daniel\bin\Debug\Operador.pdb
+C:\Users\usuario\Desktop\Calculadora_Daniel\Calculadora_Daniel\obj\Debug\Calculadora_Daniel.exe
+C:\Users\usuario\Desktop\Calculadora_Daniel\Calculadora_Daniel\obj\Debug\Calculadora_Daniel.pdb

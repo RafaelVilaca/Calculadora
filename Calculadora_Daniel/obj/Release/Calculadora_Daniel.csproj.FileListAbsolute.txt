@@ -1,0 +1,13 @@
+C:\Users\usuario\Desktop\Calculadora_Daniel\Calculadora_Daniel\bin\Release\Calculadora_Daniel.exe.config
+C:\Users\usuario\Desktop\Calculadora_Daniel\Calculadora_Daniel\bin\Release\Calculadora_Daniel.exe
+C:\Users\usuario\Desktop\Calculadora_Daniel\Calculadora_Daniel\bin\Release\Calculadora_Daniel.pdb
+C:\Users\usuario\Desktop\Calculadora_Daniel\Calculadora_Daniel\bin\Release\Entidades.dll
+C:\Users\usuario\Desktop\Calculadora_Daniel\Calculadora_Daniel\bin\Release\Operador.dll
+C:\Users\usuario\Desktop\Calculadora_Daniel\Calculadora_Daniel\bin\Release\Entidades.pdb
+C:\Users\usuario\Desktop\Calculadora_Daniel\Calculadora_Daniel\bin\Release\Operador.pdb
+C:\Users\usuario\Desktop\Calculadora_Daniel\Calculadora_Daniel\obj\Release\Calculadora_Daniel.csprojResolveAssemblyReference.cache
+C:\Users\usuario\Desktop\Calculadora_Daniel\Calculadora_Daniel\obj\Release\Calculadora_Daniel.Calculadora.resources
+C:\Users\usuario\Desktop\Calculadora_Daniel\Calculadora_Daniel\obj\Release\Calculadora_Daniel.Properties.Resources.resources
+C:\Users\usuario\Desktop\Calculadora_Daniel\Calculadora_Daniel\obj\Release\Calculadora_Daniel.csproj.GenerateResource.Cache
+C:\Users\usuario\Desktop\Calculadora_Daniel\Calculadora_Daniel\obj\Release\Calculadora_Daniel.exe
+C:\Users\usuario\Desktop\Calculadora_Daniel\Calculadora_Daniel\obj\Release\Calculadora_Daniel.pdb

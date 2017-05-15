@@ -1,0 +1,7 @@
+C:\Users\usuario\Desktop\Calculadora_Daniel\Operador\bin\Release\Operador.dll
+C:\Users\usuario\Desktop\Calculadora_Daniel\Operador\bin\Release\Operador.pdb
+C:\Users\usuario\Desktop\Calculadora_Daniel\Operador\bin\Release\Entidades.dll
+C:\Users\usuario\Desktop\Calculadora_Daniel\Operador\bin\Release\Entidades.pdb
+C:\Users\usuario\Desktop\Calculadora_Daniel\Operador\obj\Release\Operador.csprojResolveAssemblyReference.cache
+C:\Users\usuario\Desktop\Calculadora_Daniel\Operador\obj\Release\Operador.dll
+C:\Users\usuario\Desktop\Calculadora_Daniel\Operador\obj\Release\Operador.pdb

@@ -1,0 +1,4 @@
+C:\Users\usuario\Desktop\Calculadora_Daniel\Entidades\bin\Release\Entidades.dll
+C:\Users\usuario\Desktop\Calculadora_Daniel\Entidades\bin\Release\Entidades.pdb
+C:\Users\usuario\Desktop\Calculadora_Daniel\Entidades\obj\Release\Entidades.dll
+C:\Users\usuario\Desktop\Calculadora_Daniel\Entidades\obj\Release\Entidades.pdb
